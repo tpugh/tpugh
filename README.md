@@ -6,4 +6,5 @@
   - 📹Video tutorials 
   - 🤝Mentoring 
   - 🎙️Thought provoking group discussion 
-You can contact me by via [GitHub Discussion](https://github.com/tpugh/tpugh/discussions) or [Email](mailto:terrence@devslike.us).
+
+You can contact me via [GitHub Discussion](https://github.com/tpugh/tpugh/discussions) or [Email](mailto:terrence@devslike.us).
